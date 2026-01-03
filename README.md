@@ -107,6 +107,8 @@ Basic Python knowledge is recommended.
 
 ## License
 
+[MIT LICENSE](LICENSE)
+
 This repository is intended for **educational purposes**.
 
 Refer to the official Pydantic license for library usage terms
