@@ -1,4 +1,12 @@
+
 # Pydantic — Data Validation for Python
+<p>
+  <img src="https://img.shields.io/badge/python-3.10%2B-blue.svg" />
+  <img src="https://img.shields.io/badge/pydantic-v2-brightgreen.svg" />
+  <img src="https://img.shields.io/badge/license-MIT-green.svg" />
+  <img src="https://img.shields.io/badge/status-learning--friendly-blueviolet.svg" />
+</p>
+
 
 ## Overview
 
